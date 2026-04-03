@@ -31,7 +31,7 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # env files (can opt-in for committing if needed)
-.env*
+.env
 
 # vercel
 .vercel
@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+# Screipts
+scripts/add-blog-post.ts
+scripts/delete-blog-post.ts
+scripts/list-blog-posts.ts
+scripts/seed-blog-posts.ts
+scripts/update-blog-post.ts
