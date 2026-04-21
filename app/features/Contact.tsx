@@ -75,7 +75,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <div className="text-white font-semibold mb-1">Address</div>
-                    <div className="text-gray-400">Plot 11, Lekki Scheme II</div>
+                    <div className="text-gray-400">Ajah, Lagos State</div>
                   </div>
                 </div>
 
